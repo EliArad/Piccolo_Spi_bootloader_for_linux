@@ -1,0 +1,1 @@
+export PATH=$PATH:/media/elia/e6931503-f01e-4d6f-8864-4f510792c6ca/imx6ul/buildroot-2018.02/output/host/opt/ext-toolchain/bin

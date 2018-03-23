@@ -1,0 +1,1 @@
+sudo sshpass -p '1234'  scp piccolo_spi_bootloader.ko  root@192.168.15.1:/home
